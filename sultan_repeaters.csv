@@ -1,0 +1,6 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,W7SKY,444.125000,+,5.000000,Tone,103.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"W7SKY near Sultan, Snohomish County, Washington OPEN",,,,
+1,Haystack Lookout,224.240000,-,1.600000,TSQL,88.5,103.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"W7UFI near Sultan, Snohomish County, Washington OPEN Moved to Haystack Mountain from Blyn. Repeater is at 4,000 ft ASL.",,,,
+2,Haystack Mountain,441.875000,+,5.000000,TSQL,88.5,103.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"WC7T near Sultan, Snohomish County, Washington OPEN",,,,
+3,W7EAR,442.175000,+,5.000000,Tone,103.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"W7EAR near Gold Bar, Snohomish County, Washington OPEN",,,,
+4,Haystack Mountain,443.875000,+,5.000000,TSQL,88.5,127.3,023,NN,023,Tone->Tone,FM,5.00,,50W,"N7NFY near Gold Bar, Snohomish County, Washington OPEN 4,000' ASL.",,,,

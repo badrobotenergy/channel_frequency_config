@@ -1,0 +1,10 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,Livingston Mountain,145.370000,-,0.600000,Tone,123.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"AB7F near Vancouver, Clark County, Washington OPEN",,,,
+1,Larch Mountain,146.840000,-,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"W7LT near Vancouver, Clark County, Washington OPEN 3,496'.",,,,
+2,AB7F,224.640000,-,1.600000,Tone,123.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"AB7F near Vancouver, Clark County, Washington OPEN",,,,
+3,Livingston Mountain,442.375000,+,5.000000,Tone,123.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"AB7F near Vancouver, Clark County, Washington OPEN 100 watts. 1,800 feet.",,,,
+4,Peace Health,443.975000,+,5.000000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"KB7APU near Vancouver, Clark County, Washington PRIVATE",,,,
+5,Larch Mountain,443.675000,+,5.000000,TSQL,88.5,107.2,023,NN,023,Tone->Tone,FM,5.00,,50W,"KE7FUW near Vancouver, Clark County, Washington OPEN Silver Star Search and Rescue",,,,
+6,WB7RDE,224.840000,-,1.600000,Tone,100.0,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"WB7RDE near Vancouver, Clark County, Washington OPEN",,,,
+7,Peace Health - Memorial Health Center,443.825000,+,5.000000,TSQL,88.5,94.8,023,NN,023,Tone->Tone,FM,5.00,,50W,"W7AIA near Vancouver, Clark County, Washington OPEN",,,,
+8,K7GJT,442.100000,+,5.000000,TSQL,88.5,127.3,023,NN,023,Tone->Tone,FM,5.00,,50W,"K7GJT near Vancouver, Clark County, Washington OPEN",,,,

@@ -1,0 +1,2 @@
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,RxDtcsCode,CrossMode,Mode,TStep,Skip,Power,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
+0,WA6PMX,442.200000,+,5.000000,Tone,103.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,"WA6PMX near Poulsbo, Kitsap County, Washington OPEN",,,,
