@@ -1,4 +1,4 @@
-# Custon Config File
+# Custom Config File
 
 ### team_test_weather_repeaters_murs_frs-gmrs_ems.csv
 
